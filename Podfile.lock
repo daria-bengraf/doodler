@@ -1,0 +1,20 @@
+PODS:
+  - OpenSans (1.0.3)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - OpenSans
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - OpenSans
+    - SnapKit
+
+SPEC CHECKSUMS:
+  OpenSans: 33078846463eae780aa5f82986b51cce085f970d
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 3148c2ca72b373c1a12cb18b610315a4ee880241
+
+COCOAPODS: 1.9.3
